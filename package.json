@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "package1",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Your Task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Randy Einfalt",
+  "license": "UNLICENSED",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einfalt4/README-and-feed-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/einfalt4/README-and-feed-me/issues"
+  },
+  "homepage": "https://github.com/einfalt4/README-and-feed-me#readme"
 }
