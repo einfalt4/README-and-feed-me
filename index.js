@@ -6,46 +6,50 @@ const generateMarkdown = require('./utils/generateMarkdown')
 const questions = [
     {
         type: "input",
-        name: "Title",
+        name: "title",
         message: "What is the name of this project?"
     },
     {
         type: "input",
-        name: "Description",
+        name: "description",
         message: "Please briefly describe the project"
     },
     {
         type: "input",
-        name: "Installation",
+        name: "installation",
         message: "How are you installing this project?"
     },
     {
         type: "input",
-        name: "Usage",
+        name: "usage",
         message: "How would someone use this project?"
     },
     {
-        type: "input",
-        name: "License",
+        type: "list",
+        name: "license",
         message: "What license is in use for this project?",
         choices: ["Apache", "MIT", "BSL", "GPL", "None"]
     },
     {
         type: "input",
-        name: "Contributing",
+        name: "contributing",
         message: "Who is working on this project?"
     },
     {
         type: "input",
-        name: "Tests",
+        name: "tests",
         message: "Did you face any challenges during this project?"
     },
     {
         type: "input",
-        name: "Questions",
-        message: "What is your Github username?",
+        name: "questions",
         message: "What is your email?"
-    }
+    },
+    {
+        type: "input",
+        name: "questions2",
+        message: "What is your Github username?"
+    },
 ];
 
 // TODO: Create a function to write README file
@@ -55,8 +59,8 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions).then((userPrompts) => {
-        writeToFile("generator/readme.md", generateMarkdown(userPrompts))
+    inquirer.prompt(questions).then((data) => {
+        writeToFile('generator/readme.md', generateMarkdown(data))
     })
 }
 
