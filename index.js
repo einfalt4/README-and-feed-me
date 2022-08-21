@@ -17,7 +17,7 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "How are you installing this project?"
+        message: "Please explain any necessary installations in order to run this project"
     },
     {
         type: "input",
@@ -27,7 +27,7 @@ const questions = [
     {
         type: "list",
         name: "license",
-        message: "What license is in use for this project?",
+        message: "Which license is in use for this project?",
         choices: ["Apache", "MIT", "BSL", "GPL", "None"]
     },
     {
@@ -38,7 +38,7 @@ const questions = [
     {
         type: "input",
         name: "tests",
-        message: "Did you face any challenges during this project?"
+        message: "Did you face any challenges during this project? If so, please describe!"
     },
     {
         type: "input",
