@@ -1,9 +1,9 @@
-# asdasd
+# Node JS project
   ![badge](https://img.shields.io/badge/License-Apache-red)
 
 
   ## Description
-  sadasdas
+  Enter some commands, answer some questions, you get a README!
 
 
   ## Table of Contents
@@ -18,13 +18,13 @@
 
 
   ## Installation
-  dasdsadas
+  Inquirer through npm install
 
 
  
  
   ## Usage
-  asddasd
+  Like this
 
 
   
@@ -39,20 +39,20 @@
   
   
   ## Contributing
-  dasdasd
+  You, me, whoever
 
 
  
  
   ## Tests
-  dasddsa
+  Yes, it was just too much fun
 
 
  
  
   ## Questions
-  Click on link to Email- (mailto:adssad)
+  Click on link to Email- (mailto:einfalt@gmail.com)
 
-  Github- (https://github.com/asddasd)
+  Github- (https://github.com/einfalt4)
 
 

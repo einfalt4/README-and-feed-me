@@ -20,3 +20,6 @@ To install, first download this Github repo and make sure you have the inquirer 
 - A README will generate through the 'generator' folder 
 ```
 
+## Video Tutorial
+
+![](./nodetutorial.webm)
