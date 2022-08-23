@@ -31,4 +31,5 @@ To install, first download this Github repo and make sure you have the inquirer 
 ## Links/Credits
 
 Created by: Randy Einfalt
+
 Github: https://github.com/einfalt4/README-and-feed-me
