@@ -1,9 +1,9 @@
-# project\
+# Sample Project
   ![badge](https://img.shields.io/badge/License-Apache-red)
 
 
   ## Description
-  it is a project
+  It is a sample
 
 
   ## Table of Contents
@@ -18,13 +18,13 @@
 
 
   ## Installation
-  npm stuff
+  NPM Inquirer
 
 
  
  
   ## Usage
-  like this
+  following the video tutorial
 
 
   
@@ -39,19 +39,19 @@
   
   
   ## Contributing
-  me
+  Randy Einfalt
 
 
  
  
   ## Tests
-  nah all good
+  Yes, the usual hiccups
 
 
  
  
   ## Questions
-  Click on link to Email- (mailto:einfalttttt)
+  Click on link to Email- (mailto:einfalt@gmail.com)
 
   Github- (https://github.com/einfalt4)
 
