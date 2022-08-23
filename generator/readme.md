@@ -1,9 +1,9 @@
-# Project
+# project\
   ![badge](https://img.shields.io/badge/License-Apache-red)
 
 
   ## Description
-  It is a project
+  it is a project
 
 
   ## Table of Contents
@@ -18,13 +18,13 @@
 
 
   ## Installation
-  Install stuff
+  npm stuff
 
 
  
  
   ## Usage
-  well
+  like this
 
 
   
@@ -45,7 +45,7 @@
  
  
   ## Tests
-  no problems
+  nah all good
 
 
  
