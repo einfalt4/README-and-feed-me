@@ -35,10 +35,14 @@ function generateMarkdown(data) {
   ${data.installation}
 
 
+ 
+ 
   ## Usage
   ${data.usage}
 
 
+  
+  
   ## Licensing
   ${data.license}
   
@@ -46,14 +50,20 @@ function generateMarkdown(data) {
   
   This application is covered by the ${data.license} License.
 
+  
+  
   ## Contributing
   ${data.contributing}
 
 
+ 
+ 
   ## Tests
   ${data.tests}
 
 
+ 
+ 
   ## Questions
   Click on link to Email- (mailto:${data.questions})
 
