@@ -23,5 +23,5 @@ To install, first download this Github repo and make sure you have the inquirer 
 ## Video Tutorial
 
 
-[nodetutorial3.webm](https://user-images.githubusercontent.com/107439535/186197058-3c309ab2-8d55-491d-99b6-c89eeed56dc3.webm)
 
+[nodetutorial4.webm](https://user-images.githubusercontent.com/107439535/186210658-b18b2448-ca39-48a5-bd08-d595e8297c6b.webm)
