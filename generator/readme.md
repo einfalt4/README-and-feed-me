@@ -1,9 +1,9 @@
-# Node JS project
+# Project
   ![badge](https://img.shields.io/badge/License-Apache-red)
 
 
   ## Description
-  Enter some commands, answer some questions, you get a README!
+  It is a project
 
 
   ## Table of Contents
@@ -18,13 +18,13 @@
 
 
   ## Installation
-  Inquirer through npm install
+  Install stuff
 
 
  
  
   ## Usage
-  Like this
+  well
 
 
   
@@ -39,19 +39,19 @@
   
   
   ## Contributing
-  You, me, whoever
+  me
 
 
  
  
   ## Tests
-  Yes, it was just too much fun
+  no problems
 
 
  
  
   ## Questions
-  Click on link to Email- (mailto:einfalt@gmail.com)
+  Click on link to Email- (mailto:einfalttttt)
 
   Github- (https://github.com/einfalt4)
 

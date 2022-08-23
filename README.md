@@ -7,9 +7,9 @@ This is project 9, it is a command line interface that generates a professional 
 
 ## Installation
 
-```md
+
 To install, first download this Github repo and make sure you have the inquirer package loaded via npm install. Run NPM init in the command line followed by npm install.
-```
+
 
 ## Usage
 
@@ -22,4 +22,4 @@ To install, first download this Github repo and make sure you have the inquirer 
 
 ## Video Tutorial
 
-![](./nodetutorial.webm)
+![]()
